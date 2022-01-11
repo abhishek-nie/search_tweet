@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### steps to run the app.
+1)clone the repository
+2) cd tweet(means navigate to tweet folder)
+3) use node version 14 or latest
+4) run command npm i
+5) run npm run start (this will load the UI)
+
+To connect with server
+1) navigate to server folder inside tweet project
+2) use node version 14
+3) run command node server.js
+
+My tweeter credentials are in the file tweets.js and i have updating here also.
+        consumer_key: 'uCgvE1AsTpwhdFJQMqOfpZ4I7',
+        consumer_secret: 'tWwP0iZi1QYMgYdtZVOSWieb0tDoTKUB4ETCT93VC9C0hGThmg',
+        access_token_key: '1250047066715258887-xtlhGayxXyDNSTzznYLiMsgh8AqQ4v',
+        access_token_secret: 'x8IyeQzKTFKwddWJX9cJ9oKi1nJJ3u5gUWnCYsAAqjLAw',
+        bearer_token: 'AAAAAAAAAAAAAAAAAAAAAHu3XwEAAAAA%2BoJ5WnG398RHQSdTRU9uDC%2FIass%3DKG5JP8GdQXg8Pew5DgVawVCl3yPwefBE8F60QbYMuMj9Ai6Hyb'
+
